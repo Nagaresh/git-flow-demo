@@ -1,3 +1,0 @@
-Name: YourName
-Course: DevOps
-Status: Active
